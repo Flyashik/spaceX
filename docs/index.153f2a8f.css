@@ -1,0 +1,1 @@
+.main{display:flex}.aside{flex-grow:.1}.content{flex-grow:.9}.contentlist{height:600px;margin:auto;list-style-type:none;overflow-x:hidden;overflow-y:scroll}.li-launch-unselected{cursor:pointer;padding:10px;font-family:Arial,serif}.li-launch-selected{cursor:pointer;padding:10px;font-family:Arial Black,serif}.info{text-align:center;font-family:Arial Black,serif}

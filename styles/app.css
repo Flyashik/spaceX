@@ -1,0 +1,36 @@
+.main {
+    display: flex;
+}
+
+.aside {
+    flex-grow: 0.1;
+}
+
+.content {
+    flex-grow: 0.9;
+}
+
+.contentlist {
+    height:600px;
+    overflow: hidden;
+    overflow-y: scroll;
+    list-style-type: none;
+    margin: auto;
+}
+
+.li-launch-unselected{
+    font-family: "Arial", serif;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.li-launch-selected{
+    font-family: "Arial Black", serif;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.info{
+    text-align: center;
+    font-family: "Arial Black", serif;
+}
